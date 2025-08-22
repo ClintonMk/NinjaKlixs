@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ninja Klixs</h1>
+<h1 align="center">Hi 👋, I'm ClintonMk</h1>
 <h3 align="center">Cybersecurity Specialist & Ethical Data Scientist | Passionate about Securing Digital Ecosystems | Based in Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjaklixs&label=Profile%20views&color=0e75b6&style=flat" alt="ninjaklixs" /> </p>
