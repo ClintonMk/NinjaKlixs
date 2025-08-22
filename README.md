@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud Security, Advanced Cybersecurity Techniques, Regulations & Compliance**
 
-- 💬 Ask me about **php,Html python**
+- 💬 Ask me about **php,Html python,Ai**
 
 - 📫 How to reach me **klixsamour60@gmail.com**
 
