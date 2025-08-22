@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **klixsamour60@gmail.com**
 
-- ⚡ Fun fact **I'm passionate about safeguarding digital worlds and leveraging data science to create innovative security solutions—bringing a Kenyan perspective to global cybersecurity challenges!**
+- ⚡ Fun fact **I'm passionate about safeguarding digital worlds and leveraging data science to create innovative security solutions—bringing a Kenyan perspective to global cybersecurity challenges! Guys gave me a call sign as NinjaKlixs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
